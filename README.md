@@ -65,7 +65,7 @@ What do you need to do to actually build a website?
 ```PHP
 <?php
 
-  print '<h1>Hello!</h1>';
+  print '<h1>Hello from PHP!</h1>';
   
   print date('Y');
 
