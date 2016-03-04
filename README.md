@@ -28,8 +28,8 @@ What do you need to do to actually build a website?
 <html>
 <head>
   <style>
-    body { background-color: gray; }
-    p { font-family: "Times New Roman", Times, serif; }
+    body { background-color: lightgray; }
+    p { font-family: Verdana; }
     #id { color: blue; }
     .class {color: red; }
   </style>
@@ -37,9 +37,9 @@ What do you need to do to actually build a website?
   <body>
     <h1>Hello!</h1>
     <a href="http://www.google.com">Click here to look for things!</a>
-    <p>This text will be in Times New Roman.</p>
-    <p id="id">This text will be in Times New Roman and red.</p>
-    <p class="class">This text will be Times New Roman and blue.</p>
+    <p>This text will be in Verdana.</p>
+    <p id="id">This text will be in Verdana and red.</p>
+    <p class="class">This text will be Verdana and blue.</p>
   </body>
 </html>
 ```
