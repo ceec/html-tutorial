@@ -1,7 +1,8 @@
 # what-makes-a-website
 What do you need to do to actually build a website?
 
-- Inspect Element
+- HTML,CSS,Javascript,PHP
+- Use Inspect Element to see what is going on
 ![Inspect Element](https://raw.githubusercontent.com/ceec/what-makes-a-website/master/inspectelement.png)
 
 
