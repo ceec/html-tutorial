@@ -39,4 +39,28 @@ body {
 
 #Javascript
 
+Javacsript takes the webpage and lets you manipulate it.
+
+```HTML
+<html>
+<head>
+  <style>
+body {
+    background-color: blue;
+     }  
+</style>
+</head>
+  <body>
+    <h1>Hello!</h1>
+    <button id="button">Click Me!</button>
+    <script type="text/javascript">
+      var button = document.getElementById('button');
+      button.addEventListener('click', function() {
+          alert('You clicked the button!');
+      }, false);
+    </script>
+  </body>
+</html>
+```
+
 #PHP
