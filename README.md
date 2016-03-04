@@ -39,7 +39,7 @@ body {
 
 #Javascript
 
-Javacsript takes the webpage and lets you manipulate it.
+Javacsript takes the webpage and lets you manipulate the HTML and CSS.
 
 ```HTML
     <button id="button">Click Me!</button>
