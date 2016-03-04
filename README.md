@@ -58,7 +58,7 @@ PHP allows for dynamic content, it can also create HTML.
 ```PHP
 <?php
 
-  print '<h1>Hello!</h1>;
+  print '<h1>Hello!</h1>';
   
   print date('Y');
 
