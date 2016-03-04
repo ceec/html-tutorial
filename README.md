@@ -9,7 +9,7 @@ What do you need to do to actually build a website?
 
 - The structure of a website.
 - HTML elements organize a page into smaller pieces.
-
+- [Example](http://www.christineastone.com/example/html)
 ```HTML
 <html>
   <body>
@@ -24,6 +24,7 @@ What do you need to do to actually build a website?
 
 - Takes the HTML structure and manipulates it visually.
 - Can use ids and classes to target specific pieces of HTML
+- [Example](http://www.christineastone.com/example/css)
 ```HTML
 <html>
 <head>
@@ -47,7 +48,7 @@ What do you need to do to actually build a website?
 #Javascript
 
 - Lets you manipulate the HTML and CSS.
-
+- [Example](http://www.christineastone.com/example/js)
 ```HTML
     <button id="button">Click Me!</button>
     <script type="text/javascript">
@@ -61,7 +62,7 @@ What do you need to do to actually build a website?
 #PHP
 
 - allows for dynamic content, it can also create HTML.
-
+- [Example](http://www.christineastone.com/example/php)
 ```PHP
 <?php
 
