@@ -52,3 +52,15 @@ Javacsript takes the webpage and lets you manipulate it.
 ```
 
 #PHP
+
+PHP allows for dynamic content, it can also create HTML.
+
+```PHP
+<?php
+
+  print '<h1>Hello!</h1>;
+  
+  print date('Y');
+
+?>
+```
