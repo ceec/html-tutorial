@@ -39,8 +39,8 @@ What do you need to do to actually build a website?
     <h1>Hello!</h1>
     <a href="http://www.google.com">Click here to look for things!</a>
     <p>This text will be in Verdana.</p>
-    <p id="id">This text will be in Verdana and red.</p>
-    <p class="class">This text will be Verdana and blue.</p>
+    <p id="id">This text will be in Verdana and blue.</p>
+    <p class="class">This text will be Verdana and red.</p>
   </body>
 </html>
 ```
