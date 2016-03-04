@@ -2,8 +2,8 @@
 What do you need to do to actually build a website?
 
 - Inspect Element
+![Inspect Element](https://raw.githubusercontent.com/ceec/what-makes-a-website/master/inspectelement.png)
 
-- HTML, CSS, Javascript, PHP
 
 #HTML
 
@@ -20,26 +20,31 @@ What do you need to do to actually build a website?
 
 #CSS
 
-- takes the HTML structure and manipulates it visually.
+- Takes the HTML structure and manipulates it visually.
+- Can use ids and classes to target specific pieces of HTML
 ```HTML
 <html>
 <head>
   <style>
     body { background-color: gray; }
     p { font-family: "Times New Roman", Times, serif; }
+    #id { color: blue; }
+    .class {color: red; }
   </style>
 </head>
   <body>
     <h1>Hello!</h1>
     <a href="http://www.google.com">Click here to look for things!</a>
     <p>This text will be in Times New Roman.</p>
+    <p id="id">This text will be in Times New Roman and red.</p>
+    <p class="class">This text will be Times New Roman and blue.</p>
   </body>
 </html>
 ```
 
 #Javascript
 
-- lets you manipulate the HTML and CSS.
+- Lets you manipulate the HTML and CSS.
 
 ```HTML
     <button id="button">Click Me!</button>
