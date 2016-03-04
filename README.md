@@ -8,6 +8,8 @@ What do you need to do to actually build a website?
 #HTML
 
 - The structure of a website.
+- HTML elements organize a page into smaller pieces.
+
 ```HTML
 <html>
   <body>
@@ -16,7 +18,7 @@ What do you need to do to actually build a website?
   </body>
 </html>
 ```
-- HTML elements organize a page into smaller pieces.
+
 
 #CSS
 
