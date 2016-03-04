@@ -1,14 +1,13 @@
 # what-makes-a-website
 What do you need to do to actually build a website?
 
-*HTML
-*CSS
-*Javascript
-*PHP
+- Inspect Element
+
+- HTML, CSS, Javascript, PHP
 
 #HTML
 
-HTML is the structure of a website.
+- The structure of a website.
 ```HTML
 <html>
   <body>
@@ -17,29 +16,30 @@ HTML is the structure of a website.
   </body>
 </html>
 ```
+- HTML elements organize a page into smaller pieces.
 
 #CSS
 
-CSS takes the structure and manipulates it visually.
+- takes the HTML structure and manipulates it visually.
 ```HTML
 <html>
 <head>
   <style>
-body {
-    background-color: blue;
-     }  
-</style>
+    body { background-color: gray; }
+    p { font-family: "Times New Roman", Times, serif; }
+  </style>
 </head>
   <body>
     <h1>Hello!</h1>
     <a href="http://www.google.com">Click here to look for things!</a>
+    <p>This text will be in Times New Roman.</p>
   </body>
 </html>
 ```
 
 #Javascript
 
-Javacsript takes the webpage and lets you manipulate the HTML and CSS.
+- lets you manipulate the HTML and CSS.
 
 ```HTML
     <button id="button">Click Me!</button>
@@ -53,7 +53,7 @@ Javacsript takes the webpage and lets you manipulate the HTML and CSS.
 
 #PHP
 
-PHP allows for dynamic content, it can also create HTML.
+- allows for dynamic content, it can also create HTML.
 
 ```PHP
 <?php
